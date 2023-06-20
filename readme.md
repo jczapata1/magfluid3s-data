@@ -1,6 +1,6 @@
-## MagFluid3s Data
+## MagFluid3S Data
 
-This repository stores data and results related to magnetic fluid simulations. The data has been generated with the [magfluid3s](https://github.com/jczapata1/magfluid3s) package. If you want to make a collaboration send me a message to kmilozapata@hotmail.com. 
+This repository stores data and results related to magnetic fluids stochastic simulations. The data has been generated with the [magfluid3s](https://github.com/jczapata1/magfluid3s) package. If you want to make a collaboration send me a message to kmilozapata@hotmail.com. 
 
 Thank you for your visit :v:
 
@@ -12,4 +12,4 @@ Everyone is permitted to copy and distribute this database, but it is not allowe
 
 ## Citation
 
-[1] Zapata, J.C. and Restrepo, J. [Computation 2021](https://doi.org/10.3390/computation9110124) , 9(11), 124.
+[1] Zapata, J.C. and Restrepo, J. *[Computation 2021](https://doi.org/10.3390/computation9110124)*, 9(11), 124.
