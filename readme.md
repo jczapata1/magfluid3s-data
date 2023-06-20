@@ -12,4 +12,4 @@ Everyone is permitted to copy and distribute this database, but it is not allowe
 
 ## Citation
 
-Developing
+[1] Zapata, J.C. and Restrepo, J. [Computation 2021](https://doi.org/10.3390/computation9110124) , 9(11), 124.
