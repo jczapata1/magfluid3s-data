@@ -6,7 +6,7 @@ Thank you for your visit :v:
 
 ## License
 
-Copyright © 2021 Juan Camilo Zapata   
+Copyright © 2021-2023 Juan Camilo Zapata   
 
 Everyone is permitted to copy and distribute this database, but it is not allowed to modify its content.
 
