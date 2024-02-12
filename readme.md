@@ -1,10 +1,10 @@
 ## MagFluid3S Data
 
-This repository stores data and results related to magnetic fluids stochastic simulations. The data has been generated with the [magfluid3s](https://github.com/jczapata1/magfluid3s) package. Thank you for your visit :v:
+This repository stores data and results related to magnetic fluids stochastic simulations. The data has been generated with the [MagFluid3S](https://github.com/jczapata1/magfluid3s) package. Thank you for your visit :v:.
 
 ## License
 
-Copyright © 2021-2023 Juan Camilo Zapata   
+Copyright © 2021-2024 Juan Camilo Zapata   
 
 Everyone is permitted to copy and distribute this database, but it is not allowed to modify its content.
 
