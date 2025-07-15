@@ -4,7 +4,7 @@ This repository stores data and results related to magnetic fluids stochastic si
 
 ## License
 
-Copyright © 2021-2024 Juan Camilo Zapata   
+Copyright © 2021-2025 Juan Zapata   
 
 Everyone is permitted to copy and distribute this database, but it is not allowed to modify its content.
 
